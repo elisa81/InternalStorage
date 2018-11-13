@@ -15,7 +15,7 @@
         android:layout_marginTop="48dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name"
+        android:text=""
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -24,7 +24,7 @@
         android:layout_width="326dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="65dp"
-        android:text="buttonFileWriteFromInner"
+        android:text="File Write From Inner"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/buttonFileReadFromInner" />
@@ -36,7 +36,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginLeft="32dp"
         android:layout_marginTop="69dp"
-        android:text="buttonFileReadFromInner"
+        android:text="File Read From Inner"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextInput" />
 
